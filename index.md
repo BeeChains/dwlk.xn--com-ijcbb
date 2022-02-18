@@ -1,6 +1,6 @@
 ## dwlk.c̵o̵m̵/ | Down With The Lizzard King | #lizzardking
 
-A live twitter feed of the hashtag lizzard king or #lizzardking
+A live twitter feed of the hashtag lizzard king or [#lizzardking](https://twitter.com/hashtag/lizzardking?src=hashtag_click/)
 
 
 
